@@ -49,6 +49,6 @@ Use provided time series data to build a statistical model specification to expl
               * `Libor_st`,`XCommodityExports2_st`,`XCommodityImports_st`,`Dx_Variable_st`
 
 ## Directory
-   * jupyter notebook contains the entire analysis workflow with python code and findings
+   * `price_analysis.ipynb`: the jupyter notebook contains the entire analysis workflow with python code and findings
    
    

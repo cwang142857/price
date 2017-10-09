@@ -29,7 +29,7 @@ Use provided time series data to build a statistical model specification to expl
         * correlation matrix is generated
           * top correlated predictor pairs are printed
           * top correlated variable with Price are printed
-        * modeling
+        * modeling: multiple linear regression
           * step 1: Check for VIF and remove predictor with high VIF; remove top 3 high VIF features: `IP_World_st`,`IP_AdvEcon_st`,`IP_EmergingEcon_st`
           * step 2: normalize X to reduce multicollinearity and run initial model
           * step 3: check DFBETAS to see if any influential obs need to be removed 
